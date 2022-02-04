@@ -1,0 +1,216 @@
+ #### Sample run ####
+
+
+
+
+Bounty Terminal
+
+(press Enter to continue)
+
+{cls}
+1: Bounty Board
+2: Bounty Hunter Account (login)
+3: Benefactor Account (login)
+4: Setup Bounty Hunter Profile
+5: Setup Benefactor Account
+6: Quit
+
+
+
+
+#(option 1 pathway)
+
+{cls}
+Bounty Board
+
+
+    Bounty      Target          Benefactor
+
+1.  200,000     Leia Organa     Darth Vader
+2.  50,000      Han Solo        Jabba the Hutt
+3.  500,000     Luke Skywalker  Darth Vader
+
+
+Enter bounty number for more details
+(Enter b to return to the main menu)
+3
+
+{cls}
+    Wanted
+(Dead or Alive)
+
+
+Name: Luke Skywalker    Sex: Male
+Aliases: unknown        Age: 23
+Species: Human          Height: 5'9"
+Homeworld: Tattoine     Weight: 150 lbs
+Last Seen: Hoth
+
+
+Reward: 5,000,000
+Benefactor: Darth Vader
+Hunters in Pursuit: [Bossk, IG-88, Assaj Ventress]
+
+
+(Login to accept bounty)
+(Press enter to login. Press b to return to the main menu.)
+
+
+{cls}
+Bounty Hunter login
+
+
+Please enter your name: Boba Fett
+Please enter your password: boba_lives!
+
+{cls}
+    Wanted
+(Dead or Alive)
+
+
+Name: Luke Skywalker    Sex: Male
+Aliases: unknown        Age: 23
+Species: Human          Height: 5'9"
+Homeworld: Tattoine     Weight: 150 lbs
+Last Seen: Hoth
+
+
+Reward: 5,000,000
+Benefactor: Darth Vader
+Hunters in Pursuit: [Bossk, IG-88, Assaj Ventress]
+
+
+        Accept      Decline
+
+            Enter a or d
+a
+
+
+Target added to personal list
+(Press enter to return to main menu)
+
+
+
+
+#(option 2 pathway)
+
+{cls}
+Bounty Hunter login
+
+
+Please enter your name: Boba Fett
+Please enter your password: boba_lives!
+
+{cls}
+Profile: Boba Fett
+
+Current bounties:
+    - Han Solo
+    - Leia Organa
+
+
+(Press enter to return to the main menu)
+
+
+
+
+#(option 3 pathway)
+
+{cls}
+Benefactor login
+
+
+Please enter benefactor title: Darth Vader
+Please enter your password: sith_rule
+
+{cls}
+Profile: Darth Vader
+
+Your posted bounties:
+    - Leia Organa
+    - Luke Skywalker
+
+
+1: Post bounty
+2: Delete bounty
+3: Main menu
+
+
+Enter an option:
+
+
+
+
+#(option 3.1 pathway)
+
+{cls}
+Post Bounty
+
+
+Please enter as much information as you can about the target
+
+Target name: Luke Skywalker
+Other aliases: unknown
+Target species: human
+Target homeworld: Tattoine
+Target sex: male
+Target age: 23
+Target height: 5'9"
+Target weight: 150 lbs
+Last seen location: Hoth
+Reward amount: 5,000,000
+
+
+Target added to public bounty board
+
+(press enter to return to benefactor profile)
+
+
+
+
+#(option 3.2 pathway)
+
+{cls}
+Delete Bounty
+
+
+Your posted bounties:
+1. Han Solo
+
+
+Enter bounty number to remove target from public bounty board: 1
+Target removed.
+
+
+(press enter to return to benefactor profile)
+
+
+
+
+#(option 4 pathway)
+
+{cls}
+(Enter b anytime to return to the main menu)
+
+
+Please enter your name: Boba Fett
+Please choose a password: boba_lives!
+
+
+Welcome to the Guild, killer!
+
+
+
+
+#(option 5 pathway)
+
+{cls}
+(Enter b anytime to return to the main menu)
+
+
+Please enter benefactor title: Darth Vader
+Please choose a password: sith_rule
+
+
+Looking forward to doing business with you, friend!
+
